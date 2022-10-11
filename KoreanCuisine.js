@@ -1,7 +1,7 @@
 var userAgent = window.navigator.userAgent.toLowerCase();
 if (userAgent.indexOf('msie') != -1 ||
     userAgent.indexOf('trident') != -1) {
-    window.location.replace("https://aruruaruruaruru.github.io/koreanCuisine/ie/index.html");
+    window.location.replace("https://r9uk0.github.io/koreanLP/ie/index.html");
 }
 
 let slideChg = function() {
